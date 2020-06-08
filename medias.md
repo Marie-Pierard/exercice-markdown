@@ -23,7 +23,7 @@ Vous placez votre code entre ces deux lignes.
 <p>```php
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
       while ($data = $result->fetch())
-````</p>  
+```</p>  
 
 vous donnera :
 ```php
