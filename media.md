@@ -20,13 +20,15 @@ Un bloc code commence par une première ligne composée de : ````` et se termine
 Vous placez votre code entre ces deux lignes.
 
 *Exemple:* 
-````
+<p>```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-````  
+```
+</p>
+
 vous donnera :
 
 ```
