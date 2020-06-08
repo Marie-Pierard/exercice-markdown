@@ -8,7 +8,7 @@ Pour réaliser un lien simple dans **M**ark**D**own, il faut utiliser la syntaxe
 ### Images 
 Pour afficher une image dans **M**ark**D**own, il faut utiliser la syntaxe suivante:  
 `![alt text](image.jpg)`
-*Exemple:* `![img-cat](img/cat.jpg))` vous donnera <img src=img/cat/jpg width=25px height=25px>  
+*Exemple:* `![img-cat](img/cat.jpg))` vous donnera <img src=img/cat.jpg width=25px height=25px>  
 
 ### Emoji
 **M**ark**D**own vous permet d'insérer des `emojis` en utilisant `:nom-emoji:`  
