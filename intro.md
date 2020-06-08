@@ -1,3 +1,11 @@
+# Menu navigation:
+## Section [media](./media.md)\
+La section media vous montre comment ajouter des links, images, ...
+## Section [hierarchie](./hierarchie.md)\
+La section hierarchie donne des informations sur comment hierarchiser votre fichier.
+## Section [media](./media.md)\
+La section media vous montre comment ajouter des links, images, ...
+
 # **Le MarkDown, Qu'est-ce que c'est?**  
 ## Une langue avant tout   
 Le Markdown est un langage de balisage léger permettant de formater et de baliser un document sans en compliquer la lecture, d'où l'emploi du terme "léger".  
