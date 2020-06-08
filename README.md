@@ -7,10 +7,10 @@
 BeCode Charleroi 
 
 ## Participants au TW
-ch-vdld-dev@mentions
-kalonjis@mentions
-Marie-Pierard@mentions
-nicode-be@mentions
+ch-vdld-dev@mention
+kalonjis@mention
+Marie-Pierard@mention
+nicode-be@mention
 
 ## Cadre du TW 
 Travai
