@@ -1,3 +1,12 @@
+# Menu navigation:
+* Section [intro](./intro.md)\
+La section intro vous donne une petit idée de ce qu'est MarkDown.
+* Section [mise en forme](./mise_en_forme.md)\
+La section mise en forme vous montre comment agrémenter votre texte
+* Section [media](./media.md)\
+La section media vous montre comment ajouter des links, images, ...
+
+
 # Comment utiliser les différents niveaux de titres:
 
 Pour avoir différents niveaux de titres, nous devons utiliser le caractère __"#"__.\
