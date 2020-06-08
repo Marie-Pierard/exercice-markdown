@@ -12,8 +12,30 @@ Pour afficher une image, il faut utiliser la syntaxe suivante:
 
 ### Citations
 Pour écrire une citation, on utilise un chevron fermant `>`suivi d'un espace pour débuter la citation.
-*Exemple:* `> Rien de grand ne s'est accompli dans le monde sans passion`vous donnera 
+*Exemple:* `> Rien de grand ne s'est accompli dans le monde sans passion`vous donnera: 
 > Rien de grand ne s'est accompli dans le monde sans passion
+
+### Bloc de code  
+Un bloc code commence par une première ligne composée de : ````` et se termine par une ligne similaire.
+Vous placez votre code entre ces deux lignes.
+
+*Exemple:* 
+````
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+````  
+vous donnera :
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ### Emoji
 **M**ark**D**own vous permet d'insérer des `emojis` en utilisant `:nom-emoji:`  
