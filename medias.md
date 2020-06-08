@@ -4,7 +4,12 @@
 Pour réaliser un lien simple, il faut utiliser la syntaxe suivante:   
 `[title](https://www.example.com)`  
 *Exemple:* `[Lien vers Linkedin](https://www.linkedin.com)` vous donnera [Lien vers Linkedin](https://www.linkedin.com)  
- 
+
+### Liens relatifs
+Pour réaliser un lien simple, il faut utiliser la syntaxe suivante:   
+`[title](folder/readme.md)`  
+*Exemple:* `[Lien vers l'index](/readme.md)` vous donnera [Lien vers l'index](/readme.md) 
+
 ### Images 
 Pour afficher une image, il faut utiliser la syntaxe suivante:  
 `![alt text](image.jpg)`
