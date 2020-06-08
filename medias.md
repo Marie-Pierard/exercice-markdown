@@ -20,7 +20,7 @@ Un bloc code commence par une première ligne composée de : ````` et se termine
 Vous placez votre code entre ces deux lignes.
 
 *Exemple:*  
-<p>```php
+<p>```php  
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
       while ($data = $result->fetch())
 ```</p>  
