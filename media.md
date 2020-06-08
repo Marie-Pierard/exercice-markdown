@@ -39,9 +39,10 @@ vous donnera :
 }
 ```
 
+
 ### Emoji
 **M**ark**D**own vous permet d'insérer des `emojis` en utilisant `:nom-emoji:`  
-*Exemple:* `\:rocket\:` vous donnera :rocket:  
+*Exemple:* `:rocket:` vous donnera :rocket:  
 
 La liste complète des emojis est disponible [ici](https://gist.github.com/rxaviers/7360908)  
 
