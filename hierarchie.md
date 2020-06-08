@@ -21,7 +21,7 @@ Etiam lacus lorem, condimentum ac lacus ac, elementum blandit ex. Donec lacinia 
 
 # Comment créer un saut de ligne:
 
-Pour couper une ligne en partie, il faut utiliser __"\"__ pour arreter la ligne et recommencer à la ligne suivante.\
+Pour couper une ligne en partie, il faut utiliser __"\\"__ pour arreter la ligne et recommencer à la ligne suivante.\
 Voici un exemple:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.\
@@ -31,8 +31,9 @@ Maecenas tincidunt risus magna, id faucibus dui gravida ut.
 
 # Comment créer une liste non ordonée:
 
-Vous devez utilser soit le __"-"__, soit le __"*"__.\
+Vous devez utiliser soit le __"-"__, soit le __"*"__.\
 Voici un exemple de chaque:
+
 * pomme
 * poire
 * orange
@@ -62,7 +63,7 @@ Voici un exemple:
 1. trois
 1. quatre
 
-Pour créer une sous-liste dans une liste ordonée, il faut ajouter trois espaces.\
+Pour créer une sous-liste dans une liste ordonée, il faut ajouter trois espaces dans cette sous-liste.\
 Voici un exemple de liste dans une liste
 1. Un
 1. deux
@@ -105,7 +106,7 @@ Voici un exemple:
 Vous devez utilisé __"|"__ pour créer les colonnes et __"-"__ pour créer la premier ligne pour séparer le nom des colonnes de leurs contenus.\
 Voici un exemple :
 
-| Nom colonne 1     | Non colonne 2     | Non colonne 3     |
+| Nom colonne 1     | Nom colonne 2     | Nom colonne 3     |
 | ------------------| ------------------| ------------------|
 | contenu cellule 1 | contenu cellule 2 | contenu cellule 3 |
 | contenu cellule 4 | contenu cellule 5 | contenu cellule 6 |
