@@ -1,6 +1,7 @@
 ## Sources externes : 
 * Sources en français :
   * [Un guide pour bien commencer avec markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/) **FR**  
+  * [Bases de la mise en forme de texte Markdown](https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9-) **FR** 
 
 * Sources en anglais :
   * [Github - Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) **EN**  
@@ -9,4 +10,5 @@
   * [Markdown syntax by John Gruber](https://daringfireball.net/projects/markdown/syntax#precode) **EN**
   * [Mastering-markdown](https://guides.github.com/features/mastering-markdown) **EN**
   * [CommonMark](https://commonmark.org/help/) **EN**
-  * [Github-spec](https://github.com/commonmark/commonmark-spec/issues/399) **EN**
+  * [Github-spec](https://github.com/commonmark/commonmark-spec/issues/399) **EN**  
+  * [Basic Syntax](https://www.markdownguide.org/basic-syntax/#lists) **EN**
