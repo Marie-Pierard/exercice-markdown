@@ -1,8 +1,14 @@
 ## Liens et médias dans markdown
 
 ### Liens
-Pour réaliser un lien simple dans **M**ark**D**own, il faut utiliser la syntaxe suivante  
-`[title](https://www.example.com)`
+Pour réaliser un lien simple dans **M**ark**D**own, il faut utiliser la syntaxe suivante:   
+`[title](https://www.example.com)`  
+*Exemple:* `[Lien vers Linkedin](https://www.linkedin.com)` vous donnera [Lien vers Linkedin](https://www.linkedin.com)  
+ 
+### Images 
+Pour afficher une image dans **M**ark**D**own, il faut utiliser la syntaxe suivante:  
+`![alt text](image.jpg)`
+*Exemple:* `![img-placeholder](img/))` vous donnera [Lien vers Linkedin](https://www.linkedin.com)
 
 ### Emoji
 **M**ark**D**own vous permet d'insérer des `emojis` en utilisant `:nom-emoji:`  
