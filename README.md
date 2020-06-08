@@ -1,5 +1,5 @@
 # exercice-markdown
 This repo created to practice git command and markdown
 
-* [Medias](/medias.md)
+* [Liens et médias en markdown](/medias.md)
 * [Sources](/sources.md)
