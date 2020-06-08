@@ -2,7 +2,7 @@
 
 ### Liens
 Pour réaliser un lien simple dans **M**ark**D**own, il faut utiliser la syntaxe suivante  
-`\[title\]\(https://www.example.com\)`
+`[title](https://www.example.com)`
 
 ### Emoji
 **M**ark**D**own vous permet d'insérer des `emojis` en utilisant `:nom-emoji:`  
