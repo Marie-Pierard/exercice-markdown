@@ -23,7 +23,7 @@ Pour écrire une citation, on utilise un chevron fermant `>`suivi d'un espace po
 ### Mentions
 Pour mentionner un membre de votre équipe ou une organistion, on utilise la syntaxe suivante:
 `username@mentions`  
-*Exemple:* `becode.org@mentions`vous donnera : becode.org@mentions
+*Exemple:* `ch-vlvd-dev@mentions`vous donnera : ch-vlvd-dev@mentions  
 
 ### Bloc de code  
 Un bloc code commence par une première ligne composée de : ````` et se termine par une ligne similaire.
