@@ -37,22 +37,16 @@ Vous placez votre code entre ces deux lignes.
 *Exemple:* 
 <p>
 ```
-{
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
       while ($data = $result->fetch()) 
-      {
-}
 ```
 </p>
 
 vous donnera :
 
 ```
-{
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
       while ($data = $result->fetch()) 
-      {
-}
 ```
 
 
