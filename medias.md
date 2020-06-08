@@ -20,13 +20,15 @@ Un bloc code commence par une première ligne composée de : ````` et se termine
 Vous placez votre code entre ces deux lignes.
 
 *Exemple:* 
+````php
+$result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
+      while ($data = $result->fetch())
+````
+vous donnera :
 ```php
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
       while ($data = $result->fetch())
 ```
-vous donnera :
-
-
 
 ### Emoji
 **M**ark**D**own vous permet d'insérer des `emojis` en utilisant `:nom-emoji:`  
