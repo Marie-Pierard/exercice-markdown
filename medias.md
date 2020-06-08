@@ -12,7 +12,7 @@ Pour réaliser un lien simple, il faut utiliser la syntaxe suivante:
 
 ### Images 
 Pour afficher une image, il faut utiliser la syntaxe suivante:  
-`![alt text](image.jpg)`
+`![alt text](image.jpg)`  
 *Exemple:* `![img-cat](img/cat.jpg))` vous donnera <img src=img/cat.jpg width=50px height=50px>  
 
 ### Citations
