@@ -8,7 +8,11 @@
   * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)  **EN**
   * [Complete list of Emoji](https://gist.github.com/rxaviers/7360908) :smile: 
   * [Markdown syntax by John Gruber](https://daringfireball.net/projects/markdown/syntax#precode) **EN**
+<<<<<<< HEAD
+  * [Basic Syntax - Markdown guide](https://www.markdownguide.org/basic-syntax/#code) **EN**
+=======
   * [Mastering-markdown](https://guides.github.com/features/mastering-markdown) **EN**
   * [CommonMark](https://commonmark.org/help/) **EN**
   * [Github-spec](https://github.com/commonmark/commonmark-spec/issues/399) **EN**  
   * [Basic Syntax](https://www.markdownguide.org/basic-syntax/#lists) **EN**
+>>>>>>> c653a480716c3244dc7ace6e7bb7a457ac393976
