@@ -19,11 +19,12 @@ Pour écrire une citation, on utilise un chevron fermant `>`suivi d'un espace po
 Un bloc code commence par une première ligne composée de : ````` et se termine par une ligne similaire.
 Vous placez votre code entre ces deux lignes.
 
-*Exemple:* 
-`\``php
+*Exemple:*  
+<p>```php
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
       while ($data = $result->fetch())
-``\`
+````</p>  
+
 vous donnera :
 ```php
 $result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
