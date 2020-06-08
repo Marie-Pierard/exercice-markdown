@@ -2,24 +2,24 @@
 
 ## Mise en Gras
   Pour mettre du texte en **Gras**, ajoutez deux astérisques "`**`" ou traits "`__`" de soulignement avant et après un mot ou une phrase.  
-    *expemple*: * "Je m'appelle `**`**Stéphane**`**`";  
-                * "Je m'appelle `__`__Stéphane__`__`".  
+    *expemple*: - "Je m'appelle `**`**Stéphane**`**`";  
+                - "Je m'appelle `__`__Stéphane__`__`".  
   Pour des raisons de compatibilité, privilégiez les astérisque "`**`" pour la mise en gras de lettre au milieu d'un mot.
   
 ## Mise en Italique
 
  Pour mettre du texte en *Italique*, ajoutez un astérisque "`*`" ou un trait de soulignement "`_`" avant et après un mot ou une phrase.  
-    *expemple*: * " Je suis une formation chez `*`*BeCode*`*` ";  
-    * " Je suis une formation chez `_`_Becode_`_` ".    
+    *expemple*: - " Je suis une formation chez `*`*BeCode*`*` ";  
+                - " Je suis une formation chez `_`_Becode_`_` ".    
  Pour mettre en italique le milieu d'un mot pour accentuer, ajoutez un astérisque "`*`" sans espaces autour des lettres.  
 
 ## Mise en Gras et en Italique
 
  Pour mettre texte en ***Gras et en Italique*** en même temps, ajoutez trois astérisques "`***`" ou traits de soulignement "`___`" avant et après un mot ou une phrase.  
-    *expemple*: * " Maîtriser *GIT* est `***`***vraiment important***`***` ";  
-                * " Maîtriser *Git* est `___`___vraiment important___`___` ";   
-                * " Maîtriser *Git* est `**_`**_vraiment important_**`__*`";   
-                * " Maîtriser *Git* est `*__`*__vraiment important__*`__*`".      
+    *expemple*: - " Maîtriser *GIT* est `***`***vraiment important***`***` ";  
+                - " Maîtriser *Git* est `___`___vraiment important___`___` ";   
+                - " Maîtriser *Git* est `**_`**_vraiment important_**`__*`";   
+                - " Maîtriser *Git* est `*__`*__vraiment important__*`__*`".      
  Pour mettre en gras et en italique le milieu d'un mot pour accentuer, ajoutez trois astérisques "`***`"sans espaces autour des lettres.
 
 ## Blockquotes
