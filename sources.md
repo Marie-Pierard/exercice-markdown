@@ -5,4 +5,4 @@
 * Sources en anglais :
   * [Github - Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) **EN**  
   * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) **EN**
-  * [Complet list of Emoji](https://gist.github.com/rxaviers/7360908) :smile: 
+  * [Complete list of Emoji](https://gist.github.com/rxaviers/7360908) :smile: 
