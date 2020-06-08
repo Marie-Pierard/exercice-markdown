@@ -14,3 +14,10 @@ BeCode Charleroi
 
 ## Cadre du TW 
 Travail d'initiation au markdown dans le cadre du training Web Developer chez [BeCode](https://www.becode.org)
+
+## Contenu du TW
+Documentation expliquant l'utilité du markdown et l'essentiel de sa syntaxe.
+Les différentes syntaxes sont accompagnées d'exemples. 
+
+## Progression
+Work in progress
