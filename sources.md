@@ -7,3 +7,6 @@
   * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)  **EN**
   * [Complete list of Emoji](https://gist.github.com/rxaviers/7360908) :smile: 
   * [Markdown syntax by John Gruber](https://daringfireball.net/projects/markdown/syntax#precode) **EN**
+  * [Mastering-markdown](https://guides.github.com/features/mastering-markdown) **EN**
+  * [CommonMark](https://commonmark.org/help/) **EN**
+  * [Github-spec](https://github.com/commonmark/commonmark-spec/issues/399) **EN**
