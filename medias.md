@@ -38,9 +38,9 @@ Vous placez votre code entre ces deux lignes.
 <p>
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+$result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
+      while ($data = $result->fetch()) 
+      {
 }
 ```
 </p>
@@ -49,9 +49,9 @@ vous donnera :
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+$result = $dbcon->query('SELECT * FROM tableop WHERE tags LIKE "%php%" ORDER BY title');
+      while ($data = $result->fetch()) 
+      {
 }
 ```
 
