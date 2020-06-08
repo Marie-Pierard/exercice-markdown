@@ -1,5 +1,16 @@
-# TeamWork - Initiation au *M*ark*D*own
-This repo created to practice git command and markdown
+# TeamWork (TW) - Initiation au **M**ark**D**own
 
-* [Liens et médias en markdown](/medias.md)
-* [Sources](/sources.md)
+## Date du TW
+08/06/2020
+
+## Lieu du TW
+BeCode Charleroi 
+
+## Participants au TW
+ch-vdld-dev@mentions
+kalonjis@mentions
+Marie-Pierard@mentions
+nicode-be@mentions
+
+## Cadre du TW 
+Travai
