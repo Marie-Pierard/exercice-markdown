@@ -15,6 +15,11 @@ Pour afficher une image, il faut utiliser la syntaxe suivante:
 `![alt text](image.jpg)`  
 *Exemple:* `![img-cat](img/cat.jpg))` vous donnera <img src=img/cat.jpg width=50px height=50px>  
 
+### Images animées .gif
+Pour afficher une image, il faut utiliser la syntaxe suivante:  
+`![alt text](image.jpg)`  
+*Exemple:* `![img-cat](img/gifex.gif))` vous donnera <img src=img/gifex.gif width=50px height=50px> 
+
 ### Citations
 Pour écrire une citation, on utilise un chevron fermant `>`suivi d'un espace pour débuter la citation.
 *Exemple:* `> Rien de grand ne s'est accompli dans le monde sans passion`vous donnera: 
@@ -30,7 +35,8 @@ Un bloc code commence par une première ligne composée de : ````` et se termine
 Vous placez votre code entre ces deux lignes.
 
 *Exemple:* 
-<p>```
+<p>
+```
 {
   "firstName": "John",
   "lastName": "Smith",
