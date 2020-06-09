@@ -5,6 +5,8 @@ La section intro vous donne une petit idée de ce qu'est MarkDown.
 La section mise en forme vous montre comment agrémenter votre texte
 * Section [media](./media.md)\
 La section media vous montre comment ajouter des links, images, ...
+* Section [source](./source.md)\
+La section source vous donne toutes sources pour rédiger les fichiers md 
 
 
 # Comment utiliser les différents niveaux de titres:

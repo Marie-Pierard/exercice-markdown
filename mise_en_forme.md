@@ -5,6 +5,8 @@ La section intro vous donne une petit idée de ce qu'est MarkDown.
 La section hierarchie donne des informations sur comment hierarchiser votre fichier.
 * Section [media](./media.md)\
 La section media vous montre comment ajouter des links, images, ...
+* Section [source](./source.md)\
+La section source vous donne toutes sources pour rédiger les fichiers md 
 
 # Mise en forme dans markdown
 
