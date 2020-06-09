@@ -41,7 +41,7 @@ La section media vous montre comment ajouter des links, images, ...
 ## Blockquotes avec plusieurs paragraphes
 
  **Les blockquotes** peuvent contenir plusieurs paragraphes. Ajoutez un >sur les lignes vides entre les paragraphes.
-    *exemple*:" 
+    *exemple*:"    
     `>paragraphe 1`  
     `>`   
     `>paragraphe 2`"
@@ -49,7 +49,7 @@ La section media vous montre comment ajouter des links, images, ...
 ## Blockquotes imbriquées
 
  **Les blockquotes** peuvent être imbriquées. Ajoutez un ">>" devant le paragraphe que vous souhaitez imbriquer.  
-    *exemple*:" 
+    *exemple*:"      
     `> bloque de citation niveau 1`  
     `>`  
     `>>bloque de citation niveau 2 ` " 
