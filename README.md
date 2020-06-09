@@ -13,11 +13,11 @@ BeCode Charleroi
 [Nicolas Denoël](https://github.com/nicode-be/)  
 
 ## Cadre du TW 
-Travail d'initiation au markdown et à l'utilisation de Git et de ses principales commandes dans le cadre du training Web Developer chez [BeCode](https://www.becode.org), réalisé en suivant ces [consignes](https://github.com/becodeorg/CRL-Woods-3.21/blob/master/LearningPath/01-Prairie/04.Markdown/2.exercice-markdown-groupe.md)
+Travail d'initiation au markdown et à l'utilisation de Git et de ses principales commandes, réalisé dans le cadre du training Web Developer chez [BeCode](https://www.becode.org) en suivant ces [consignes](https://github.com/becodeorg/CRL-Woods-3.21/blob/master/LearningPath/01-Prairie/04.Markdown/2.exercice-markdown-groupe.md)
 
 ## Contenu du TW
 Documentation expliquant l'utilité du markdown et l'essentiel de sa syntaxe.
 Les différentes syntaxes sont accompagnées d'exemples. 
 
 ## Progression
-Corrections orthographe typo avant clôture
+Clôturé
