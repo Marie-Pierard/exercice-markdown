@@ -20,4 +20,4 @@ Documentation expliquant l'utilité du markdown et l'essentiel de sa syntaxe.
 Les différentes syntaxes sont accompagnées d'exemples. 
 
 ## Progression
-Work in progress
+Corrections orthographe typo avant clôture
