@@ -1,12 +1,12 @@
 # Menu navigation:
 * Section [intro](./intro.md)\
-La section intro vous donne une petit idée de ce qu'est MarkDown.
+La section intro vous donne une petite idée de ce qu'est MarkDown.
 * Section [mise en forme](./mise_en_forme.md)\
 La section mise en forme vous montre comment agrémenter votre texte
 * Section [media](./media.md)\
-La section media vous montre comment ajouter des links, images, ...
+La section media vous montre comment ajouter des liens, des images, ...
 * Section [source](./source.md)\
-La section source vous donne toutes sources pour rédiger les fichiers md 
+La section source vous donne toutes les sources utilisées pour rédiger les fichiers md 
 
 
 # Comment utiliser les différents niveaux de titres:
@@ -21,7 +21,7 @@ Voici quelques exemples avec leur équivalent en html:
 
 # Comment créer un paragraphe:
 
-Les paragraphes sont séparé par un saut de ligne entre chaque paragraphe.\
+Les paragraphes sont séparés par un saut de ligne entre chaque paragraphe.\
 Voici un exemple:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt risus magna, id faucibus dui gravida ut. Nulla facilisi. Mauris id arcu id urna pharetra gravida nec sit amet lectus. Nam condimentum, lectus sed dictum viverra, tortor justo feugiat neque, ut vehicula velit lacus et dui.
@@ -32,7 +32,7 @@ Etiam lacus lorem, condimentum ac lacus ac, elementum blandit ex. Donec lacinia 
 
 # Comment créer un saut de ligne:
 
-Pour couper une ligne en partie, il faut utiliser __"\\"__ pour arreter la ligne et recommencer à la ligne suivante.\
+Pour couper une ligne en partie, il faut utiliser __"\\"__ pour arrêter la ligne et recommencer à la ligne suivante.\
 Voici un exemple:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.\
@@ -40,7 +40,7 @@ Maecenas tincidunt risus magna, id faucibus dui gravida ut.
 
 
 
-# Comment créer une liste non ordonée:
+# Comment créer une liste non ordonnée:
 
 Vous devez utiliser soit le __"-"__, soit le __"*"__.\
 Voici un exemple de chaque:
@@ -53,7 +53,7 @@ Voici un exemple de chaque:
 - rond
 - triangle
 
-Pour créer une sous-liste dans une liste non ordonée, il faut deux espaces dans cette sous-liste.\
+Pour créer une sous-liste dans une liste non ordonnée, il faut deux espaces dans cette sous-liste.\
 Voici un exemple de liste dans une liste:
 * Fruit
   * Apple
@@ -74,7 +74,7 @@ Voici un exemple:
 1. trois
 1. quatre
 
-Pour créer une sous-liste dans une liste ordonée, il faut ajouter trois espaces dans cette sous-liste.\
+Pour créer une sous-liste dans une liste ordonnée, il faut ajouter trois espaces dans cette sous-liste.\
 Voici un exemple de liste dans une liste
 1. Un
 1. deux
@@ -98,7 +98,7 @@ Voici un exemple:
              1. Berger Allemand
              1. Berger Australien
              1. Berger Belge
-          1. Chiwawa
+          1. Chihuahua
        - Chats
   - Poissons
     
@@ -108,13 +108,13 @@ Vous devez utiliser __"- [ ]__" ou __"-[X]"__\
 Voici un exemple:
 
 - [x] Titres
-- [x] liste non ordonée
+- [x] liste non ordonnée
 - [x] liste ordonnée
 - [ ] check list
 
 # Comment créer un tableau:
 
-Vous devez utilisé __"|"__ pour créer les colonnes et __"-"__ pour créer la premier ligne pour séparer le nom des colonnes de leurs contenus.\
+Vous devez utiliser __"|"__ pour créer les colonnes et __"-"__ pour créer la première ligne pour séparer le nom des colonnes de leurs contenus.\
 Voici un exemple :
 
 | Nom colonne 1     | Nom colonne 2     | Nom colonne 3     |
