@@ -1,9 +1,9 @@
 # Index
 
 ## Section [intro](./intro.md)
-La section intro vous donne une petit idée de ce qu'est MarkDown.
+La section intro vous donne une petite idée de ce qu'est MarkDown.
 - Une langue avant tout
-- A quoi ca sert ?
+- À quoi ca sert ?
 
 ## Section [mise en forme](./mise_en_forme.md)
 La section mise en forme vous montre comment agrémenter votre texte :
@@ -20,22 +20,22 @@ La section hierarchie donne des informations sur comment hierarchiser votre fich
 * Comment utiliser les différents niveaux de titres
 * Comment créer un paragraphe
 * Comment créer un saut de ligne
-* Comment créer une liste non ordonée
+* Comment créer une liste non ordonnée
 * Comment créer une liste ordonnée
 * Comment créer une liste mixte
 * Comment créer une check-list
 * Comment créer un tableau
 
 ## Section [media](./media.md)
-La section media vous montre comment ajouter des links, images, ...
+La section media vous montre comment ajouter des liens, des images, ...
 * Liens simples
 * Liens relatifs
-* Images statique
-* Images animée
+* Images statiques
+* Images animées
 * Citations
 * Bloc de code
 * Emoji
 
 ## Section [source](./source.md)
-La section source vous donne toutes sources pour rédiger les fichiers md 
+La section source vous donne toutes les sources utilisées pour rédiger les fichiers md 
 
