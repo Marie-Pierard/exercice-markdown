@@ -1,12 +1,12 @@
 # Menu navigation:
 * Section [intro](./intro.md)\
-La section intro vous donne une petit idée de ce qu'est MarkDown.
+La section intro vous donne une petite idée de ce qu'est MarkDown.
 * Section [hierarchie](./hierarchie.md):\
 La section hierarchie donne des informations sur comment hierarchiser votre fichier.
 * Section [media](./media.md)\
-La section media vous montre comment ajouter des links, images, ...
+La section media vous montre comment ajouter des liens, des images, ...
 * Section [source](./source.md)\
-La section source vous donne toutes sources pour rédiger les fichiers md
+La section source vous donne toutes les sources utilisées pour rédiger les fichiers md
 
 ## Sources externes : 
 * Sources en français :
