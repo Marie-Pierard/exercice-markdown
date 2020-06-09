@@ -1,12 +1,12 @@
 # Menu navigation:
 * Section [intro](./intro.md)\
-La section intro vous donne une petit idée de ce qu'est MarkDown.
+La section intro vous donne une petite idée de ce qu'est MarkDown.
 * Section [hierarchie](./hierarchie.md):\
 La section hierarchie donne des informations sur comment hierarchiser votre fichier.
 * Section [media](./media.md)\
 La section media vous montre comment ajouter des links, images, ...
 * Section [source](./source.md)\
-La section source vous donne toutes sources pour rédiger les fichiers md 
+La section source vous donne toutes les sources utilisées pour rédiger les fichiers md 
 
 # Mise en forme dans markdown
 
@@ -15,7 +15,7 @@ La section source vous donne toutes sources pour rédiger les fichiers md
     *expemple*:
    - "Je m'appelle `**`**Stéphane**`**`";  
    - "Je m'appelle `__`__Stéphane__`__`".  
-  Pour des raisons de compatibilité, privilégiez les astérisque "`**`" pour la mise en gras de lettre au milieu d'un mot.
+  Pour des raisons de compatibilité, privilégiez les astérisques "`**`" pour la mise en gras de lettre au milieu d'un mot.
   
 ## Mise en Italique
 
@@ -23,17 +23,17 @@ La section source vous donne toutes sources pour rédiger les fichiers md
     *expemple*: 
    - " Je suis une formation chez `*`*BeCode*`*` ";  
    - " Je suis une formation chez `_`_Becode_`_` ".    
- Pour mettre en italique le milieu d'un mot pour accentuer, ajoutez un astérisque "`*`" sans espaces autour des lettres.  
+ Pour mettre en italique le milieu d'un mot pour l'accentuer, ajoutez un astérisque "`*`" sans espaces autour des lettres.  
 
 ## Mise en Gras et en Italique
 
  Pour mettre texte en ***Gras et en Italique*** en même temps, ajoutez trois astérisques "`***`" ou traits de soulignement "`___`" avant et après un mot ou une phrase.  
     *expemple*:   
-   - " Maîtriser *GIT* est `***`***vraiment important***`***` ";  
+   - " Maîtriser *Git* est `***`***vraiment important***`***` ";  
    - " Maîtriser *Git* est `___`___vraiment important___`___` ";   
    - " Maîtriser *Git* est `**_`**_vraiment important_**`__*`";   
    - " Maîtriser *Git* est `*__`*__vraiment important__*`__*`".      
- Pour mettre en gras et en italique le milieu d'un mot pour accentuer, ajoutez trois astérisques "`***`"sans espaces autour des lettres.
+ Pour mettre en gras et en italique le milieu d'un mot pour l'accentuer, ajoutez trois astérisques "`***`"sans espaces autour des lettres.
 
 ## Blockquotes
 
