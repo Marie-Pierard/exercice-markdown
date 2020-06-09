@@ -36,6 +36,6 @@ La section media vous montre comment ajouter des links, images, ...
 * Bloc de code
 * Emoji
 
-## Section [source](./source.md)\
+## Section [source](./source.md)
 La section source vous donne toutes sources pour rédiger les fichiers md 
 
