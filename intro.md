@@ -1,6 +1,6 @@
 # Menu navigation:
-* Section [media](./media.md)\
-La section media vous montre comment ajouter des liens, des images, ...
+* Section [mise en forme](./mise_en_forme.md)\
+La section mise en forme vous montre comment agrémenter votre texte
 * Section [hierarchie](./hierarchie.md)\
 La section hierarchie donne des informations sur comment hierarchiser votre fichier.
 * Section [media](./media.md)\
