@@ -1,12 +1,12 @@
 # Menu navigation:
 * Section [intro](./intro.md)\
-La section intro vous donne une petit idée de ce qu'est MarkDown.
+La section intro vous donne une petite idée de ce qu'est MarkDown.
 * Section [mise en forme](./mise_en_forme.md)\
 La section mise en forme vous montre comment agrémenter votre texte
 * Section [hierarchie](./hierarchie.md):
 La section hierarchie donne des informations sur comment hierarchiser votre fichier.
 * Section [source](./source.md)\
-La section source vous donne toutes sources pour rédiger les fichiers md 
+La section source vous donne toutes les sources utilisées pour rédiger les fichiers md 
 
 ## Liens et médias dans markdown
 
@@ -16,7 +16,7 @@ Pour réaliser un lien simple, il faut utiliser la syntaxe suivante:
 *Exemple:* `[Lien vers Linkedin](https://www.linkedin.com)` vous donnera [Lien vers Linkedin](https://www.linkedin.com)  
 
 ### Liens relatifs
-Pour réaliser un lien simple, il faut utiliser la syntaxe suivante:   
+Pour réaliser un lien relatif, il faut utiliser la syntaxe suivante:   
 `[title](folder/readme.md)`  
 *Exemple:* `[Lien vers l'index](/readme.md)` vous donnera [Lien vers l'index](/readme.md) 
 
@@ -26,7 +26,7 @@ Pour afficher une image, il faut utiliser la syntaxe suivante:
 *Exemple:* `![img-cat](img/cat.jpg))` vous donnera <img src=img/cat.jpg width=50px height=50px>  
 
 ### Images animées .gif
-Pour afficher une image, il faut utiliser la syntaxe suivante:  
+Pour afficher une image animée, il faut utiliser la syntaxe suivante:  
 `![alt text](image.jpg)`  
 *Exemple:* `![img-cat](img/gifex.gif))` vous donnera <img src=img/gifex.gif width=50px height=50px> 
 
